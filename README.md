@@ -1,2 +1,2 @@
-# Lance Lu's webpage!
+# Lance Lu's webpage
 Hi there, welcome!
